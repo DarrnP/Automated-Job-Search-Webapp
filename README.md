@@ -33,5 +33,6 @@ Page Analysis: Playwright navigates to the provided URL, waits for the content t
 
 API Response: The backend aggregates the findings (e.g., which keywords were found and how many times) and sends a JSON response back to the client.
 
+
 Display Results: The React frontend parses the response and displays the results to the user in a clear, readable format.
 The frontend will be running at http://localhost:3000.
