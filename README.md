@@ -16,7 +16,8 @@ Instant Feedback: Immediately responds to the user with the search results.
 
 <h1>🛠️ Tech Stack</h1>
 Python,
-React
+React,
+FastAPI
 
 
 
@@ -33,6 +34,16 @@ Page Analysis: Playwright navigates to the provided URL, waits for the content t
 
 API Response: The backend aggregates the findings (e.g., which keywords were found and how many times) and sends a JSON response back to the client.
 
+<h1>WebApp Preview</h1>
+Enter details like carrer page url, keywords for job etc
+<img width="703" height="348" alt="Image" src="https://github.com/user-attachments/assets/356f54bd-87a6-4381-8ae5-22c15831b959" />
 
-Display Results: The React frontend parses the response and displays the results to the user in a clear, readable format.
-The frontend will be running at http://localhost:3000.
+
+<img width="636" height="306" alt="Image" src="https://github.com/user-attachments/assets/6e8889d3-8935-4b40-8d98-4386112bf78e" />
+<h2></h2>
+
+Output Page
+<h2></h2>
+<img width="620" height="493" alt="Image" src="https://github.com/user-attachments/assets/1ea652e3-f7b7-4e0a-8f98-0e16717df8b1" />
+
+
