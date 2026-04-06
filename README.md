@@ -39,7 +39,7 @@ Enter details like carrer page url, keywords for job etc
 <img width="1070" height="520" alt="Image" src="https://github.com/user-attachments/assets/5dd4ead8-b4b2-4cff-a850-9fe6755f9b42" />
 
 
-<img width="636" height="306" alt="Image" src="https://github.com/user-attachments/assets/6e8889d3-8935-4b40-8d98-4386112bf78e" />
+<img width="1093" height="667" alt="Image" src="https://github.com/user-attachments/assets/ebd2afd6-dc44-4bbb-ab56-50e79e4c0fae" />
 <h2></h2>
 
 Output Page
