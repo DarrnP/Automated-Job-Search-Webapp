@@ -45,6 +45,6 @@ Enter details like carrer page url, keywords for job etc
 
 Results Page
 <h2></h2>
-<img width="1858" height="917" alt="Image" src="https://github.com/user-attachments/assets/b9905f76-71e2-4965-ae1a-0d996515c36f" />
+<img width="1751" height="889" alt="Image" src="https://github.com/user-attachments/assets/530cd2c0-1e8b-4140-9b57-d00016e86918" />
 
 
