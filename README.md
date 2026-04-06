@@ -38,11 +38,12 @@ API Response: The backend aggregates the findings (e.g., which keywords were fou
 Enter details like carrer page url, keywords for job etc
 <img width="1070" height="520" alt="Image" src="https://github.com/user-attachments/assets/5dd4ead8-b4b2-4cff-a850-9fe6755f9b42" />
 
-
+<h2></h2>
+<h2></h2>
 <img width="1093" height="667" alt="Image" src="https://github.com/user-attachments/assets/ebd2afd6-dc44-4bbb-ab56-50e79e4c0fae" />
 <h2></h2>
 
-Output Page
+Results Page
 <h2></h2>
 <img width="1858" height="917" alt="Image" src="https://github.com/user-attachments/assets/b9905f76-71e2-4965-ae1a-0d996515c36f" />
 
