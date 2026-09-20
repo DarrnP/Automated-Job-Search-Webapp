@@ -36,15 +36,16 @@ API Response: The backend aggregates the findings (e.g., which keywords were fou
 
 <h1>WebApp Preview</h1>
 Enter details like carrer page url, keywords for job etc
-<img width="1070" height="520" alt="Image" src="https://github.com/user-attachments/assets/5dd4ead8-b4b2-4cff-a850-9fe6755f9b42" />
+<img width="1600" height="826" alt="Image" src="https://github.com/user-attachments/assets/359705fb-db63-44d7-a31e-42c8b7d05799" />
 
-<h2></h2>
-<h2></h2>
-<img width="1093" height="667" alt="Image" src="https://github.com/user-attachments/assets/ebd2afd6-dc44-4bbb-ab56-50e79e4c0fae" />
 <h2></h2>
 
 Results Page
 <h2></h2>
-<img width="1751" height="889" alt="Image" src="https://github.com/user-attachments/assets/530cd2c0-1e8b-4140-9b57-d00016e86918" />
+<img width="1600" height="824" alt="Image" src="https://github.com/user-attachments/assets/15260666-006b-42b7-b445-2ee45ea1f143" />
+
+<h2></h2>
+<h2></h2>
+<img width="1600" height="829" alt="Image" src="https://github.com/user-attachments/assets/617dff33-0c82-4edf-ac32-9e057efb71c5" />
 
 
